@@ -1,4 +1,4 @@
-# 🌳 Trabalhando com Branches: Desvendando o Git e GitHub com a Miriã! ✨
+# 🌳 Trabalhando com Branches: Desvendando o Git e GitHub!
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/miriaamaral/trabalhando-com-branches)](https://github.com/miriaamaral/trabalhando-com-branches/commits/main)
 [![GitHub contributors](https://img.shields.io/github/contributors/miriaamaral/trabalhando-com-branches)](https://github.com/miriaamaral/trabalhando-com-branches/graphs/contributors)
@@ -85,7 +85,7 @@ Vamos juntos construir o futuro da tecnologia e dominar o Git! 🚀💻
 
 ### **📝 Licença:**
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT.
 
 ---
 
@@ -100,7 +100,3 @@ Gostou do tutorial de branches, tem dúvidas sobre Git, ou quer trocar uma ideia
 Vamos juntos construir o futuro da tecnologia! ✨
 
 ---
-
-#### **Tópicos (Tags) para este Repositório:**
-
-`Git GitHub Branches ControleDeVersao DesenvolvimentoColaborativo Tutorial Terminal Portfólio DIO BoasPraticas`
